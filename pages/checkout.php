@@ -26,7 +26,7 @@
 <body class="bg-gray-50">
     <div class="container mx-auto px-4 py-8 max-w-4xl">
         <div class="flex justify-between items-center mb-6">
-            <h1 class="text-2xl font-bold text-dark">Checkout</h1>
+            <h1 class="text-2xl font-bold text-dark">Checkout</h1> 
         </div>
 
         <div class="bg-white rounded-lg shadow-md overflow-hidden">
