@@ -10,7 +10,7 @@
 </head>
 
 <body class="bg-gray-50">
-    <?php include("../../includes/navbar.php") ?>
+    <!-- <?php include("../../includes/navbar.php") ?> -->
 
     <div class="container mx-auto px-4 py-8 max-w-6xl">
         <!-- Product Container -->
