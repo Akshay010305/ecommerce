@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Wireless Bluetooth Headphones",
+        "description": "Experience studio-grade sound with wide frequency response (20Hz\u201340kHz) and LDAC codec support for lossless audio streaming.",
+        "category": "Electronics",
+        "brand": "SoundMax",
+        "price": 120,
+        "discount": 20,
+        "stock": 46,
+        "sku": "SM-BTHP2024",
+        "images": [
+            "Gemini_Generated_Image_pjfkvapjfkvapjfk.png",
+            "Gemini_Generated_Image_jcao9fjcao9fjcao.png",
+            "Gemini_Generated_Image_q42y6cq42y6cq42y.png",
+            "main.jpg"
+        ],
+        "rating": 4,
+        "reviews": 59,
+        "features": [
+            "40mm dynamic drivers for rich",
+            " balanced sound.\r\nCustom EQ modes via the SoundMax app (Bass Boost",
+            " Vocal Enhancer",
+            " Gaming Mode).",
+            "\r\nActive Noise Cancellation (ANC)",
+            "\r\nBlocks 95% of ambient noise for immersive listening.",
+            "\r\nTransparency Mode lets you hear surroundings without removing headphones.",
+            "\r\nMemory foam ear cushions and adjustable headband for fatigue-free wear.",
+            "\r\nLightweight design (265g) ideal for long sessions.",
+            "\r\n30-Hour Battery Life",
+            "\r\nFast charging: 10 mins = 3 hours playback.",
+            "\r\nUSB-C and Qi wireless charging compatible.",
+            "\r\nBuilt-in AI Microphone",
+            "\r\nNoise-reducing mic for clear calls and voice assistant support (Siri/Google).",
+            "\r\nDurable & Travel-Friendly."
+        ],
+        "dimensions": {
+            "width": "5cm",
+            "height": "7cm",
+            "depth": "2cm"
+        },
+        "weight": "70g",
+        "color": "Black",
+        "warranty": "2 years",
+        "release_date": "2025-07-31"
+    }   
+]

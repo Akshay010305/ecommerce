@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Electronics",
+        "image": "Electronics.jpg"
+    },
+    {
+        "name": "Wearables",
+        "image": "Wearables.jpg"
+    },
+    {
+        "name": "Home & Kitchen",
+        "image": "Home & Kitchen.jpg"
+    },
+    {
+        "name": "Footwear",
+        "image": "Footwear.jpg"
+    },
+    {
+        "name": "Furniture",
+        "image": "Furniture.jpg"
+    },
+    {
+        "name": "Toys",
+        "image": "Toys.jpg"
+    },
+    {
+        "name": "Clothing",
+        "image": "Clothing.jpg"
+    },
+    {
+        "name": "Accessories",
+        "image": "Accessories.jpg"
+    },
+    {
+        "name": "Bags",
+        "image": "Bags.jpg"
+    },
+    {
+        "name": "Personal Care",
+        "image": "Personal Care.jpg"
+    }
+]
